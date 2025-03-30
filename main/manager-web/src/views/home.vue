@@ -8,7 +8,7 @@
           <div class="add-device">
             <div class="add-device-bg">
               <div class="hellow-text" style="margin-top: 30px;">
-                您好，小智
+                您好，智语
               </div>
               <div class="hellow-text">
                 让我们度过

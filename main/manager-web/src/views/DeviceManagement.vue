@@ -57,7 +57,7 @@ export default {
       addDeviceDialogVisible: false,
       deviceList: [
         {
-          model: 'xingzhi-cube-0.96oled-wifi',
+          model: 'zhiyu-cube-0.96oled-wifi',
           firmwareVersion: '1.4.6',
           macAddress: 'fc:01:2c:c5:d5:7c',
           bindTime: '2025-03-10 18:16:21',
@@ -67,7 +67,7 @@ export default {
           otaSwitch: false
         },
         {
-          model: 'xingzhi-board-1.3tft-ble',
+          model: 'zhiyu-board-1.3tft-ble',
           firmwareVersion: '2.1.0',
           macAddress: 'ac:12:3d:e7:f8:9a',
           bindTime: '2025-03-12 09:30:15',
@@ -77,7 +77,7 @@ export default {
           otaSwitch: true
       },
       {
-        model: 'xingzhi-kit-0.91oled-4g',
+        model: 'zhiyu-kit-0.91oled-4g',
         firmwareVersion: '1.8.3',
         macAddress: 'bc:45:6f:1e:2d:3c',
         bindTime: '2025-03-15 14:22:08',
